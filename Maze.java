@@ -1,5 +1,4 @@
 //cd C:\Users\Administrator\Desktop\javaのファイルの場所に移動して
-//始めるときはCMDでjava Maze 数値(数値がMapの大きさになる)
 
 import java.util.Random;
 import java.util.Stack;
